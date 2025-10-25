@@ -1,3 +1,9 @@
+## Support
+
+Join our Discord server for support, updates, and to see our other scripts!
+
+[![Discord](https://img.shields.io/badge/Discord-Join_VOID_SCRIPTS-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/aEK3YPwEkr)
+
 # vd-drawtext
 
 **vd-drawtext** is a standalone, lightweight, and modern DrawText script for FiveM that uses NUI to display clean and animated UI prompts.
