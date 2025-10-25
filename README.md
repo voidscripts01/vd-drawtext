@@ -4,6 +4,10 @@
 
 Created by KITSO.
 
+## Preview
+
+![vd-drawtext-preview](preview.gif)
+
 ## Features
 
 * **Modern UI:** Replaces the default FiveM DrawText with a clean NUI interface.
